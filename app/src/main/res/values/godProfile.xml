@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="godProfile">
+        <item>"http://furuyonideck.com/images/profile/1.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/2.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/3.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/4.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/5.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/6.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/7.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/8.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/9.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/10.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/11.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/12.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/13.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/14.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/15.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/16.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/17.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/18.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/19.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/20.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/21.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/22.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/23.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/24.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/25.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/26.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/27.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/28.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/29.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/30.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/31.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/32.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/33.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/34.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/35.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/36.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/37.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/38.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/39.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/40.jpg"</item>
+        <item>"http://furuyonideck.com/images/profile/41.jpg"</item>
+    </string-array>
+</resources>

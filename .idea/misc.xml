@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/activity_deck_create.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/activity_deck_look.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/activity_deck_save.xml" value="0.3828125" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/activity_main.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/deck_list_item.xml" value="0.3828125" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/dialog_long.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/dialog_pickcard.xml" value="0.3828125" />
+        <entry key="..\:/Users/DOJE22/Downloads/FuruyoniDeckBuilder2/app/src/main/res/layout/vertical_item.xml" value="0.38645833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
