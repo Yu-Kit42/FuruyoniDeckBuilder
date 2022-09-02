@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="godArray">
+        <item>여신선택</item>
+        <item>유리나</item>
+        <item>유리나A</item>
+        <item>사이네</item>
+        <item>사이네A</item>
+        <item>사이네A2</item>
+        <item>히미카</item>
+        <item>히미카A</item>
+        <item>토코요</item>
+        <item>토코요A</item>
+        <item>토코요A2</item>
+        <item>오보로</item>
+        <item>오보로A</item>
+        <item>유키히</item>
+        <item>유키히A</item>
+        <item>신라</item>
+        <item>신라A</item>
+        <item>하가네</item>
+        <item>하가네A</item>
+        <item>치카게</item>
+        <item>치카게A</item>
+        <item>쿠루루</item>
+        <item>쿠루루A</item>
+        <item>탈리야</item>
+        <item>탈리야A</item>
+        <item>라이라</item>
+        <item>라이라A</item>
+        <item>우츠로</item>
+        <item>우츠로A</item>
+        <item>호노카</item>
+        <item>호노카A</item>
+        <item>코르누</item>
+        <item>야츠하</item>
+        <item>하츠미</item>
+        <item>미즈키</item>
+        <item>메구미</item>
+        <item>카나에</item>
+        <item>쿠루루A2</item>
+        <item>하츠미A</item>
+        <item>야츠하A</item>
+        <item>카무이</item>
+        <item>렌리</item>
+    </string-array>
+</resources>
